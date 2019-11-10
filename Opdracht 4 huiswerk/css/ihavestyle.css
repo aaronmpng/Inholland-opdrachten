@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Italianno|PT+Sans+Narrow:700&display=swap');
+
+body
+{
+	background-color: #ccccff;
+	
+}
+h1
+{
+	color: #003366;
+	
+}
+h2
+{
+	color: #33cccc;
+	
+}
+p
+{
+	color: #666699;
+	font-family: 'Italianno';
+	
+	
+}
+table
+{
+	color: #009933;
+
+}
+form
+{
+	color: #666699;
+	
+}
+fieldset
+{
+
+}
+th
+{
+	font-family: 'PT Sans Narrow';
+}

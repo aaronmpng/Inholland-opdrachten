@@ -1,0 +1,40 @@
+body
+{
+	width: 40%;
+	height: 800px;
+	border-width: 1em;
+	border-color: #F90;
+	border-style: double;
+}
+
+h1
+{
+	width: 200px;
+	margin: auto;
+	font-size: 100px;
+}
+
+#main-text 
+{
+	color: blue;
+}
+
+
+
+h2
+{
+	width: 200px;
+	margin: auto;
+	font-size: 50px;
+}
+
+h3
+{
+	width: 200px;
+	margin: auto;
+	font-size: 200px;
+}
+
+.index-th {
+	color: red;
+}

@@ -1,0 +1,149 @@
+/*pas alle afbeeldingen van de webpage aan*/
+.tulpen {
+	width: 500px;
+	height: 400px;
+	margin-left: 16%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+.windmolen {
+	width: 500px;
+	height: 400px;
+	margin-right: 3%;
+	margin-top: 3%;
+	margin-bottom: 3%;	
+}
+.amsterdam1 {
+	width: 500px;
+	height: 400px;
+	margin-left: 16%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	
+}
+.sloterdijk {
+	width: 500px;
+	height: 400px;
+	margin-right: 3%;
+	margin-top: 3%;
+	margin-bottom: 3%;	
+}
+.jiujutsu {
+	width: 400px;
+	height: 300px;
+	clear: both
+}
+.fitness {
+	width: 400px;
+	height: 300px;
+	clear: both;
+}
+.korfbal {
+	width: 400px;
+	height: 300px;
+	clear: both;
+}
+.buiten {
+	width: 400px;
+	height: 300px;
+	clear: both;
+}
+.tafel {
+	width: 400px;
+	height: 300px;
+	clear: both;
+}
+.badminton{
+	width: 400px;
+	height: 300px;
+	clear: both;
+}
+.karate{
+	width: 400px;
+	height: 300px;
+	clear: both;
+}
+.pool{
+	width: 400px;
+	height: 300px;
+	clear: both;
+}
+.hardlopen{
+	width: 400px;
+	height: 300px;
+	clear: both;
+}
+.parkour{
+	width: 400px;
+	height: 300px;
+	clear: both;
+}
+.klem{
+	width: 500px;
+	height: 400px;
+	margin-left: 16%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+.vast{
+	width: 500px;
+	height: 400px;
+	margin-right: 3%;
+	margin-top: 3%;
+	margin-bottom: 3%;	
+}
+/*pas de legend aan*/
+legend {
+	font-size: 50px;
+}
+/*maak font styles*/
+h1 {
+	font-family: arial;
+	font-size: 45px;
+	color: #000099;
+	text-transform: capitalize;
+}
+h2 {
+	font-family: arial;
+	font-size: 25px;
+	color: #660080;
+	
+}
+h4 {
+	font-family: arial;
+	font-size: 15px;
+	color: #339933;
+}
+p {
+	font-family: arial, "times new roman", times, serif;
+	font-size:1em;
+	color: #004d4d;
+}
+footer {
+	font-family: arial;
+	color: #e60000;
+	font-style: italic;
+}
+body {
+	font-family: arial;
+	background-color: #ccccb3;
+}
+legend {
+	font-family: arial;
+	color: #008080;
+}
+label {
+	font-family: arial;
+}
+textarea {
+	font-family: arial;
+}
+input {
+	font-family: arial;
+}
+video {
+	position: absolute;
+	z-index: -10;
+	min-height: 100%;
+	min-width: 100%;
+}
